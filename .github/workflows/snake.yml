@@ -24,9 +24,9 @@ jobs:
           github_user_name: rodrigodamiao
           outputs: |
                 dist/snake.svg?palette=github-dark
-                dist/snake-red.svg?color_snake=#ff0000&color_dots=#1a1a1a,#803232,#b30000,#e60000,#ff0000
-                dist/snake-java.svg?color_snake=%23ED8B00&color_dots=%232A2A2A,%239ECE6A,%236CC644,%234E9A33,%233E8131
-                dist/snake-java2.svg?color_snake=%23ED8B00&color_dots=%23181818,%23414141,%23555555,%23777777,%23999999                
+                dist/snake-red.svg?color_snake=#ff0000&color_dots=#1a1a1a,#803232,#b30000,#e60000,#ff0000                
+                dist/snake-java.svg?color_snake=%23ED8B00&color_dots=%23181818,%23414141,%23555555,%23777777,%23999999
+                dist/snake-java2.svg?color_snake=%23ED8B00&color_dots=%232A2A2A,%239ECE6A,%236CC644,%234E9A33,%233E8131
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
