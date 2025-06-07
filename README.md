@@ -11,3 +11,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+
+<img src="https://raw.githubusercontent.com/rodrigodamiao/rodrigodamiao/output/snake.svg" alt="Snake animation" />
