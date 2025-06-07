@@ -15,6 +15,6 @@
   
 </p>
 
-<img src="https://raw.githubusercontent.com/rodrigodamiao/rodrigodamiao/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rodrigodamiao/rodrigodamiao/output/snake-red.svg" alt="Snake animation" />
 
 </div>
