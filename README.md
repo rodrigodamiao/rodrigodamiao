@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Rodrigo Damião
 
-**`Desenvolvedor Backend Java`**
+**`Desenvolvedor Backend`**
 
 ### Linguagens e Tecnologias
 
