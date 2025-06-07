@@ -1,6 +1,17 @@
 # 👨🏻‍💻 Rodrigo Damião
 
 **`Desenvolvedor Backend Java`**
+
+### Linguagens e Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ---
 
 <p align="left">
@@ -27,33 +38,5 @@
   </a>
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-<p>
-<img
-  align="left"
-  alt="Github Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=rodrigodamiao&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&locale=pt-br"
-  />
-  <img
-  align="left"
-  alt="Github Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodamiao&theme=github_dark_dimmed&custom_title=Tecnologias"
-  />
-</p>
 
 
